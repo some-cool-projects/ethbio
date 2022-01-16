@@ -4,8 +4,8 @@
   <h1 align="center"> Ethbio </h1>
   <p align="center">
   <a href="https://github.com/ethbio/ethbio/">Github</a> |
-  <a href="https://github.com/ethbio/ethbio/">Screenshots</a> |
-  <a href="https://github.com/ethbio/ethbio">Discord Server</a>
+  <a href="https://github.com/ethbio/ethbio#screenshots">Screenshots</a> |
+  <a href="https://github.com/ethbio/ethbio">Discord Server(Soon)</a>
   </p>
 </p>
 
