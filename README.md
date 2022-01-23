@@ -15,6 +15,8 @@
   We've all seen one page bios of users that showoff their **links**. Ethbio however takes it to a new level, with the help of web3 technologies it makes showing 
   off your __**NFTS**__ much more easier.
 
+  [This project finished 3rd overall in the CYF Hackathon](https://devpost.com/software/ethbio)
+  
   ## Features
 
 - show of your nft assets 
